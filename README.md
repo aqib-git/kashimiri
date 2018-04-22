@@ -6,8 +6,11 @@ List of Kashmiri words in English Letters.
  
 # Words
  
-* heachun: Learn
-* heachnawun: Teaching
-* pagah: tomorrow
+- heachun: Learn
+- heachnawun | parnawun : Teaching
+- Parun: Reading
+- gatul: Clever
+- beakal: foolish
+- pagah: tomorrow
 
  
